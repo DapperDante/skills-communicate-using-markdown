@@ -4,3 +4,4 @@
 .
 .
 ###### Finally, this is a last header in markdown
+![Image of octocat](https://octodex.github.com/images/yaktocat.png)
